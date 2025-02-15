@@ -27,8 +27,7 @@
 ---
 
 ### 🔥 Fun Fact
-![Joke](https://v2.jokeapi.dev/joke/Programming?format=png)
-
+![Joke](https://readme-jokes.vercel.app/api?theme=dark)
 ---
 
 ## 🖥️ Tech Stack
