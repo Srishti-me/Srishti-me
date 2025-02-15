@@ -11,25 +11,23 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif">
 
 ### 🚀 About Me
-- 🔭 Currently working on **Text-to-Image Generative Project**
-- 🌱 Learning **Full-Stack Development, Data Science, and Machine Learning**
+- 🔭 Currently working on **AI-based Job Application Automation Project**
+- 🌱 Learning **Full-Stack AI, Data Science, and Machine Learning**
 - 🤝 Looking for **internship opportunities and collaborations**
-- 📫 Reach me at **srish8933yadav.rohit@gmail.com**
+- 📧 Reach me at **[Email](mailto:srish8933yadav.rohit@gmail.com)** or **[Discord](https://discord.com/channels/@me)**
 
 ---
 
-### 💻 What I Do
-- 🌐 Specialize in **MERN Stack** (MongoDB, Express.js, React.js, Node.js) for scalable web applications.
-- 🤖 Integrating AI/ML into full-stack applications.
-- 🔍 Exploring **DSA, problem-solving, and system design** to enhance technical skills.
-- 🚀 Always eager to learn new technologies and stay updated with industry trends.
+### 💪 What I Do
+- 🌐 Developing **AI-powered automation** tools and **intelligent web applications**.
+- 🤖 Integrating **Machine Learning** into full-stack projects.
+- 🔍 Applying **DSA, problem-solving, and system design** to create efficient solutions.
+- 🚀 Constantly exploring cutting-edge **AI & ML technologies**.
 
 ---
 
 ### 🔥 Fun Fact
-⚡ I take on challenges even when I don’t know them—because learning is my strength!
-☕ Debugging feels incomplete without coffee.
-🎯 Solving DSA problems keeps my logic sharp.
+![Joke](https://v2.jokeapi.dev/joke/Programming?format=png)
 
 ---
 
@@ -54,6 +52,13 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -89,6 +94,7 @@
 ### 🔗 Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/srishti-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishti yadav" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 ---
