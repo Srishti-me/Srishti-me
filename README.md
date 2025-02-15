@@ -11,9 +11,9 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif">
 
 ### 🚀 About Me
-- 🔭 Currently working on **AI-based Job Application Automation Project**
+- 🔭 Currently working on **Text to Image Generative Project**
 - 🌱 Learning **Full-Stack AI, Data Science, and Machine Learning**
-- 🤝 Looking for **internship opportunities and collaborations**
+- 🤝 Looking for **Internship opportunities and collaborations**
 - 📧 Reach me at **[Email](mailto:srish8933yadav.rohit@gmail.com)** or **[Discord](https://discord.com/channels/@me)**
 
 ---
@@ -21,7 +21,7 @@
 ### 💪 What I Do
 - 🌐 Developing **AI-powered automation** tools and **intelligent web applications**.
 - 🤖 Integrating **Machine Learning** into full-stack projects.
-- 🔍 Applying **DSA, problem-solving, and system design** to create efficient solutions.
+- 🔍 Applying **DSA and problem-solving** to create efficient solutions.
 - 🚀 Constantly exploring cutting-edge **AI & ML technologies**.
 
 ---
