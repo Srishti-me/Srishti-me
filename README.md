@@ -3,14 +3,14 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif">
 
 ### 🚀 About Me
 - 🔭 Currently working on **Text-to-Image Generative Project**
 - 🌱 Learning **Full-Stack Development, Data Science, and Machine Learning**
 - 🤝 Looking for **internship opportunities and collaborations**
 - 📫 Reach me at **srish8933yadav.rohit@gmail.com**
-- ⚡ Fun fact: **I take on challenges even when I don’t know them—because learning is my strength!**
+- ⚡ Fun fact: **I debug in my dreams and hustle while awake—hard work is just my default mode!**
 
 ---
 
